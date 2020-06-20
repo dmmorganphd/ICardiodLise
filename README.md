@@ -12,4 +12,7 @@ to produce a variety of output images with different colorings.
 Substantial development work not done using git is recorded in ./early;
 there are a variety of diagnostic and output images in ./early/images. 
 
+On branch rainbowl2r: 
 
+Creating output that produces a rainbow pattern from left to right acros
+the cardiod. 
