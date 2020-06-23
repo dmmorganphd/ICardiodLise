@@ -16,3 +16,8 @@ On branch rainbowl2r:
 
 Creating output that produces a rainbow pattern from left to right acros
 the cardiod. 
+
+On branch rainbowtop2bottom:
+
+Creating output that produces a rainbow patterns from top to bottom and
+vice versa. 
